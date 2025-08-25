@@ -1,0 +1,5 @@
+{
+  "name": "Mussoorie Cab Booking",
+  "description": "A premium cab booking application for Mussoorie, powered by Gemini to provide fare estimates.",
+  "requestFramePermissions": []
+}
